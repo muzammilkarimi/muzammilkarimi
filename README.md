@@ -13,8 +13,8 @@
 [![website](./img/globe-light.svg)](#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](youtube.com/c/muzammilahmadkarimi/#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](youtube.com/c/muzammilahmadkarimi/#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](youtube.com/muzammilahmadkarimi/#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](youtube.com/muzammilahmadkarimi/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muzammil-ahmad-karimi-63a105185/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muzammil-ahmad-karimi-63a105185/#gh-dark-mode-only)
