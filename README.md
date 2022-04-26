@@ -2,12 +2,11 @@
 
 ## I'm a Computer Science Student, MERN Developer, Graphic Designer, and Little Film maker!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- ⚡ Fun fact: I love to edit photo, Filmmaking and Traveling
+- 😻 Check out the few Designs I created: [MAKdesignstudio](https://www.instagram.com/mak_design_studio/)
 
 ### Connect with me:
 
@@ -35,32 +34,27 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
-
-
 ---
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-<!-- - [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-- [ULTIMATE Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
+<!-- YOUTUBE:START  -->
+
+- [Delhi In 90 seconds](https://www.youtube.com/watch?v=YNSL7_J8lVI&ab_channel=MuzammilAhmadKarimi)
+- [Explore with MAK | Ep 01 | around my village](https://www.youtube.com/watch?v=OakHq0weBJI&t=5s&ab_channel=MuzammilAhmadKarimi)
+- [My Village Bihar India](https://www.youtube.com/watch?v=me5v79IRBhc&t=140s&ab_channel=MuzammilAhmadKarimi)
 <!-- YOUTUBE:END -->
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
+➡️ [more videos...](youtube.com/c/muzammilahmadkarimi)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+
+- [Website n Blog is Under Construction]()
+
 <!-- BLOG-POST-LIST:END -->
 
 ## <!-- ➡️ [more blog posts...](https://codestackr.com) -->
@@ -85,8 +79,8 @@
 
 </details> -->
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+<!-- [website]: https://codeSTACKr.com -->
+<!-- [course]: http://vsCodeHero.com -->
 
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 
