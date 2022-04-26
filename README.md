@@ -17,7 +17,6 @@
 [![website](./img/youtube-light.svg)](youtube.com/c/muzammilahmadkarimi#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](youtube.com/c/muzammilahmadkarimi#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
