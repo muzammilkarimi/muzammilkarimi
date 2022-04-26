@@ -11,7 +11,6 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](youtube.com/c/muzammilahmadkarimi#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](youtube.com/c/muzammilahmadkarimi#gh-dark-mode-only)
