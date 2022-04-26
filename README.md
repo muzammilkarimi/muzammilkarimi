@@ -2,12 +2,11 @@
 
 ## I'm a Computer Science Student, MERN Developer, Graphic Designer, and Little Film maker!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 👯 I’m looking to collaborate with other programmers
+- 🥅 2022 Goals: Learn more about web3 
+- ⚡ Fun fact: I love to edit photo, Filmmaking and Traveling 
+- 😻 Check out the few Designs I created: [MAKdesignstudio](https://www.instagram.com/mak_design_studio/)
 
 ### Connect with me:
 
