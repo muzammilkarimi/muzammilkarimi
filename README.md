@@ -1,6 +1,6 @@
 # Hi there, I'm Muzammil Ahmad Karimi 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Computer Science Student, MERN Developer, Graphic Designer, and Little Film maker!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -37,7 +37,7 @@
 
 
 
-
+---
 
 ### 📺 Latest YouTube Videos
 
