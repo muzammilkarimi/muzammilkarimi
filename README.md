@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: .......
 - ⚡ Fun fact: I love to edit photo, Filmmaking and Traveling
 - 😻 Check out the few Designs I created: [MAKdesignstudio](https://www.instagram.com/mak_design_studio/)
 
