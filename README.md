@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://muzammilkarimi.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://muzammilkarimi.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](youtube.com/muzammilahmadkarimi/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](youtube.com/muzammilahmadkarimi/#gh-dark-mode-only)
@@ -19,8 +19,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muzammil-ahmad-karimi-63a105185/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muzammil-ahmad-karimi-63a105185/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mr_mak0007/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mr_mak0007/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/muzammilkarimiiiii/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/muzammilkarimiiiii/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
