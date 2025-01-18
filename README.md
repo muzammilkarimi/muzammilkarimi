@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: .......
+- 🥅 2025 Goals: coding, read Philosophy, write poetry, learn filmmaking
 - ⚡ Fun fact: I love to train frontal lobe of my brain by solving problem,edit photo, Filmmaking and Traveling
 - 😻 Check out the few Designs I created: [MAKdesignstudio](https://www.instagram.com/mak_design_studio/)
 
